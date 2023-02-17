@@ -7,7 +7,8 @@ Not implemented right now. Check back later after my kotlin java programming ski
 
 | Patch | Description | Supported Version |
 |:--------:|:--------------:|:-----------------:|
-| `nothing` | nothing. | all |
+| `remove-ads` | Remove advertisement from Video and Shorts. | 18.07.33 |
+| `remove-general-ads` | Remove advertisement banner on homepage. | 18.07.33 |
 </details>
 
 ### [ `com.google.android.apps.youtube.music`](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
