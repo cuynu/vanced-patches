@@ -5,15 +5,18 @@ Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music
 Limitions between ReVanced Extended patches : 
 - No Import/export settings function ❌
 - Worse features than RVX ❌
-- No force VP9 codec ❌
-- No custom branding icon & name & package name ❌
+- No force VP9 codec function ❌
+- No custom branding icon & name & custom package name ❌
 - Stability ✅
 - Compatible with Unisoc devices ✅
 - Download videos and music with NewPipe built-in integration ✅
+- Actually specific Vanced patch (not ReVanced anymore) ✅
 
 Branding icon & name will build as YouTube Vanced icon & name. If you build non-root variant, package name will change to : com.vanced.android.youtube.
+
 There is no options to custom branding icon & name to prevent someone else build YouTube Vanced as ReVanced branding name & icon.
 
+Patch list : 
 
 ### [ `com.google.android.youtube`](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 <details>
