@@ -2,7 +2,7 @@
 
 Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music. Don't ask for other apps such as : Spotify,Reddit,Twitter,etc !
 
-Limitions between ReVanced Extended patches : 
+Limitions between ReVanced Extended and this patches : 
 
 ❌ Features worse than ReVanced Extended
 
