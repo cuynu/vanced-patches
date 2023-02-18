@@ -15,7 +15,7 @@ Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music
 | `buffer-fix` | Spoof YouTube client version and package name to fix video playback buffer issue. | all |
 | `remove-ads` | Remove advertisement from Video and Shorts. | all |
 | `remove-general-ads` | Remove advertisement banner on homepage. | all |
-| `microg-support` | Ability to login Google account with Vanced microG. | all |
+| `microg-support` | Ability to login Google account with Vanced microG. Required when build non-root variant. | all |
 | `allow-nomicrog` | Allow YouTube Vanced to run without GMS or Vanced microG with no login function. | all |
 | `pip` | Play videos in Picture-in-Pictures mode | all |
 | `bg-playback` | Playback videos in background mode | all |
@@ -23,6 +23,7 @@ Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music
 | `disable-pip-shorts` | Disable Picture-in-Pictures in Shorts. (Experiment flag) | all |
 | `branding-vanced` | Applies YouTube Vanced icon and splash background. | all |
 | `vanced-name` | Change branding names to YouTube Vanced. | all |
+| `package-name` | Change package name to com.vanced.android.youtube (Warning : non-root only) | all |
 | `ryd` | Return YouTube dislikes integration. | all |
 | `sponsorblock` | SponsorBlock integration. | all |
 | `video-download` | Download videos and audio from YouTube Vanced with NewPipe bulit-in integration. | all |
@@ -32,6 +33,7 @@ Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music
 | `black-theme` | Applies black theme. | all |
 | `monet-theme`| Applies Material You theme (Android 12+), minSDK version also change to 31. | all |
 | `old-layout` | Spoof YouTube version to 17.28.34 to restore old layout. | all |
+| `optimize` | Optimize apk after patching complete. | all |
 
 
 </details>
@@ -43,12 +45,13 @@ Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music
 |:--------:|:--------------:|:-----------------:|
 | `remove-ads` | Remove advertisement from YT Music. | all |
 | `remove-premium` | Remove buy YouTube Premium banner. | all |
+| `branding-logo` | Change original YouTube Music logo, header and splash to YouTube Music Vanced. | all | 
+| `branding-name` | Change app name to YouTube Music Vanced. | all |
+| `package-name` | Change package name to com.vanced.android.apps.youtube.music (Warning : non-root only) | all |
 | `bg-playback` | Play music in background. | all |
 | `vanced-settings` | YT Music Vanced settings | all |
 | `disable-cast` | Disable cast button | all |
-| `remove-reservation` | Remove YT Music reservation (Experiment flag) | all |
-
-
+| `microg-support` | Ability to login Google account with Vanced microG. Required when build non-root variant. | all | 
 </details>
 
 
