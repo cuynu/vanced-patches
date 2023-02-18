@@ -1,6 +1,7 @@
 # vanced-patches
-
 Not implemented right now. Check back later after my kotlin java programming skills improved 
+
+Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music. Don't ask for other apps such as : Spotify,Reddit,Twitter,etc !
 
 ### [ `com.google.android.youtube`](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 <details>
