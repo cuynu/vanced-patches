@@ -1,5 +1,8 @@
 ##  ⚠️ Patch still in WIP !
+**We are working hard alone without contributor, so its can take a longer time!**
 
+
+Note : 
 Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music. Don't ask for other apps such as : Spotify,Reddit,Twitter,etc !
 
 ## Patch list : 
