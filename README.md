@@ -20,6 +20,7 @@ Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music
 | `vanced-name` | Change branding names to YouTube Vanced. | 18.07.33 |
 | `ryd` | Return YouTube dislikes integration. | 18.07.33 |
 | `sponsorblock` | SponsorBlock integration. | 18.07.33 |
+| `video-download` | Download videos and audio from YouTube Vanced with NewPipe bulit-in integration. | 18.07.33 |
 
 </details>
 
