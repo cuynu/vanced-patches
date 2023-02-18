@@ -1,4 +1,4 @@
-# vanced-patches
+##  ⚠️ Patch still in WIP !
 
 Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music. Don't ask for other apps such as : Spotify,Reddit,Twitter,etc !
 
