@@ -11,6 +11,10 @@ Limitions between ReVanced Extended patches :
 - Compatible with Unisoc devices ✅
 - Download videos and music with NewPipe built-in integration ✅
 
+Branding icon & name will build as YouTube Vanced icon & name. If you build non-root variant, package name will change to : com.vanced.android.youtube.
+There is no options to custom branding icon & name to prevent someone else build YouTube Vanced as ReVanced branding name & icon.
+
+
 ### [ `com.google.android.youtube`](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 <details>
 
