@@ -8,6 +8,7 @@ Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music
 
 | Patch | Description | Supported Version |
 |:--------:|:--------------:|:-----------------:|
+| `buffer-fix` | Spoof YouTube client version and package name to fix video playback buffer issue. | 18.07.33 |
 | `remove-ads` | Remove advertisement from Video and Shorts. | 18.07.33 |
 | `remove-general-ads` | Remove advertisement banner on homepage. | 18.07.33 |
 | `microg-support` | Ability to login Google account with Vanced microG. | 18.07.33 |
