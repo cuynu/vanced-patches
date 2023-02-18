@@ -30,5 +30,11 @@ Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music
 | Patch | Description | Supported version |
 |:--------:|:--------------:|:-----------------:|
 | `remove-ads` | Remove advertisement from YT Music. | all |
+| `remove-premium` | Remove buy YouTube Premium banner. | all |
+| `bg-playback` | Play music in background. | all |
+| `vanced-settings` | YT Music Vanced settings | all |
+| `disable-cast` | Disable cast button | all |
+| `remove-reservation` | Remove YT Music reservation (Experiment flag) | all |
+
 
 </details>
