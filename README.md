@@ -12,20 +12,21 @@ Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music
 
 | Patch | Description | Supported Version |
 |:--------:|:--------------:|:-----------------:|
-| `buffer-fix` | Spoof YouTube client version and package name to fix video playback buffer issue. | 18.07.33 |
-| `remove-ads` | Remove advertisement from Video and Shorts. | 18.07.33 |
-| `remove-general-ads` | Remove advertisement banner on homepage. | 18.07.33 |
-| `microg-support` | Ability to login Google account with Vanced microG. | 18.07.33 |
-| `allow-nomicrog` | Allow YouTube Vanced to run without GMS or Vanced microG with no login function. | 18.07.33 |
-| `pip` | Play videos in Picture-in-Pictures mode | 18.07.33 |
-| `bg-playback` | Playback videos in background mode | 18.07.33 |
-| `vanced-settings` | Vanced settings. | 18.07.33 |
-| `disable-pip-shorts` | Disable Picture-in-Pictures in Shorts. (Experiment flag) | 18.07.33 |
-| `branding-vanced` | Applies YouTube Vanced icon and splash background. | 18.07.33 |
-| `vanced-name` | Change branding names to YouTube Vanced. | 18.07.33 |
-| `ryd` | Return YouTube dislikes integration. | 18.07.33 |
-| `sponsorblock` | SponsorBlock integration. | 18.07.33 |
-| `video-download` | Download videos and audio from YouTube Vanced with NewPipe bulit-in integration. | 18.07.33 |
+| `buffer-fix` | Spoof YouTube client version and package name to fix video playback buffer issue. | all |
+| `remove-ads` | Remove advertisement from Video and Shorts. | all |
+| `remove-general-ads` | Remove advertisement banner on homepage. | all |
+| `microg-support` | Ability to login Google account with Vanced microG. | all |
+| `allow-nomicrog` | Allow YouTube Vanced to run without GMS or Vanced microG with no login function. | all |
+| `pip` | Play videos in Picture-in-Pictures mode | all |
+| `bg-playback` | Playback videos in background mode | all |
+| `vanced-settings` | Vanced settings. | all |
+| `disable-pip-shorts` | Disable Picture-in-Pictures in Shorts. (Experiment flag) | all |
+| `branding-vanced` | Applies YouTube Vanced icon and splash background. | all |
+| `vanced-name` | Change branding names to YouTube Vanced. | all |
+| `ryd` | Return YouTube dislikes integration. | all |
+| `sponsorblock` | SponsorBlock integration. | all |
+| `video-download` | Download videos and audio from YouTube Vanced with NewPipe bulit-in integration. | all |
+| `seekbar-shorts` | Seekbar in Shorts (Experiment) | all |
 
 </details>
 
