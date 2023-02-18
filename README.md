@@ -2,34 +2,6 @@
 
 Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music. Don't ask for other apps such as : Spotify,Reddit,Twitter,etc !
 
-Limitions between ReVanced Extended and this patches : 
-
-❌ Features worse than ReVanced Extended
-
-❌ No Import/export settings function
-
-❌ No force VP9 codec function
-
-❌ No custom branding icon & name & custom package name
-
-❌ Ad-block might not work well
-
-❌ No brightness & volume swipe gesture
-
-✅ allow-nomicrog patch : Can run without Vanced microG (non-root variant) with no login function (Like old Vanced <16.xx.xx)
-
-✅ video-download patch : Built-in video & audio downloader inside patch (NewPipe integration)
-
-✅ Stability 
-
-✅ Compatible with Unisoc processor devices
-
-✅ Actually is a specific Vanced patch (not ReVanced anymore)
-
-Branding icon & name will build as YouTube Vanced icon & name. If you build non-root variant, package name will change to : com.vanced.android.youtube.
-
-There is no options to custom branding icon & name to prevent someone else build YouTube Vanced as ReVanced branding name & icon.
-
 ## Patch list : 
 
 ### [ `com.google.android.youtube`](https://play.google.com/store/apps/details?id=com.google.android.youtube)
@@ -68,3 +40,32 @@ There is no options to custom branding icon & name to prevent someone else build
 
 
 </details>
+
+
+Limitions between ReVanced Extended and this patches : 
+
+❌ Features worse than ReVanced Extended
+
+❌ No Import/export settings function
+
+❌ No force VP9 codec function
+
+❌ No custom branding icon & name & custom package name
+
+❌ Ad-block might not work well
+
+❌ No brightness & volume swipe gesture
+
+✅ allow-nomicrog patch : Can run without Vanced microG (non-root variant) with no login function (Like old Vanced <16.xx.xx)
+
+✅ video-download patch : Built-in video & audio downloader inside patch (NewPipe integration)
+
+✅ Stability 
+
+✅ Compatible with Unisoc processor devices
+
+✅ Actually is a specific Vanced patch (not ReVanced anymore)
+
+Branding icon & name will build as YouTube Vanced icon & name. If you build non-root variant, package name will change to : com.vanced.android.youtube.
+
+There is no options to custom branding icon & name to prevent someone else build YouTube Vanced as ReVanced branding name & icon.
