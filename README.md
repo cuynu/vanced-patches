@@ -2,6 +2,15 @@
 
 Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music. Don't ask for other apps such as : Spotify,Reddit,Twitter,etc !
 
+Limitions between ReVanced Extended patches : 
+- No Import/export settings function ❌
+- Worse features than RVX ❌
+- No force VP9 codec ❌
+- No custom branding icon & name & package name ❌
+- Stability ✅
+- Compatible with Unisoc devices ✅
+- Download videos and music with NewPipe built-in integration ✅
+
 ### [ `com.google.android.youtube`](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 <details>
 
