@@ -10,7 +10,7 @@ Limitions between ReVanced Extended patches :
 - Stability ✅
 - Compatible with Unisoc devices ✅
 - Download videos and music with NewPipe built-in integration ✅
-- Actually specific Vanced patch (not ReVanced anymore) ✅
+- Actually is specific Vanced patch (not ReVanced anymore) ✅
 
 Branding icon & name will build as YouTube Vanced icon & name. If you build non-root variant, package name will change to : com.vanced.android.youtube.
 
