@@ -29,9 +29,9 @@ Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music
 | `video-download` | Download videos and audio from YouTube Vanced with NewPipe bulit-in integration. | all |
 | `seekbar-shorts` | Seekbar in Shorts (Experiment) | all |
 | `remove-offline-download` | Remove bulit-in stock YouTube "Downloaded video" feature from Library menu. | all | 
-| `old-quality-layout` | Enable old video quality layout. | all |
+| `videoquality` | Enable old video quality layout. | all |
 | `black-theme` | Applies black theme. | all |
-| `monet-theme`| Applies Material You theme (Android 12+), minSDK version also change to 31. | all |
+| `monettheme`| Applies Material You theme (Android 12+), minSDK version also change to 31. | all |
 | `old-layout` | Spoof YouTube version to 17.28.34 to restore old layout. | all |
 | `optimize` | Optimize apk after patching complete. | all |
 
