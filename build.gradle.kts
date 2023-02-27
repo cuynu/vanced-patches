@@ -11,7 +11,7 @@ repositories {
     mavenCentral()
     mavenLocal()
     maven {
-        url = uri("https://maven.pkg.github.com/cuynu/revanced-patcher")
+        url = uri("https://maven.pkg.github.com/cuynu/vanced-patcher")
         credentials {
             username = githubUsername
             password = githubPassword
