@@ -2,7 +2,7 @@ plugins {
     kotlin("jvm") version "1.7.0"
 }
 
-group = "com.cuynu"
+group = "com.cuynuvanced"
 
 val githubUsername: String = project.findProperty("gpr.user") as? String ?: System.getenv("GITHUB_ACTOR")
 val githubPassword: String = project.findProperty("gpr.key") as? String ?: System.getenv("GITHUB_TOKEN")
