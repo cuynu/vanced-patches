@@ -17,7 +17,7 @@ Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music
 | `remove-ads` | Remove advertisement from Video and Shorts. | all |
 | `remove-general-ads` | Remove advertisement banner on homepage. | all |
 | `microg-support` | Ability to login Google account with Vanced microG. Required when build non-root variant. | all |
-| `allow-nomicrog` | Allow YouTube Vanced to run without GMS or Vanced microG with no login function. | all |
+| `sunxivanced-support` | Ability to login Google account with sunxivanced (Exclude microg-support when building!) | all |
 | `pip` | Play videos in Picture-in-Pictures mode | all |
 | `bg-playback` | Playback videos in background mode | all |
 | `vanced-settings` | Vanced settings. | all |
