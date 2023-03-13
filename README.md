@@ -16,7 +16,7 @@ Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music
 | `remove-ads` | Remove advertisement from Video and Shorts. | all |
 | `remove-general-ads` | Remove advertisement banner on homepage. | all |
 | `microg-support` | Ability to login Google account with Vanced microG. Required when build non-root variant. | all |
-| `sunxivanced-support` | Ability to login Google account with sunxivanced Required when build non-root variant. (Exclude microg-support when building!) (non-root) | all |
+| `sunxivanced-support` | Ability to login Google account with sunxivanced. Required when build non-root variant. (Exclude microg-support when building!) | all |
 | `pip` | Play videos in Picture-in-Pictures mode | all |
 | `bg-playback` | Playback videos in background mode | all |
 | `vanced-settings` | Vanced settings. | all |
@@ -33,6 +33,7 @@ Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music
 | `monettheme`| Applies Material You theme (Android 12+), minSDK version also change to 31. | all |
 | `old-layout` | Spoof YouTube version to 17.03.38 to restore old layout. | all |
 | `optimize` | Optimize apk after patching complete. | all |
+| `crash-fix` | Fix crash issue on device using Unisoc processors. | all |
 
 
 </details>
@@ -51,7 +52,7 @@ Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music
 | `vanced-settings` | YT Music Vanced settings | all |
 | `disable-cast` | Disable cast button | all |
 | `microg-support` | Ability to login Google account with Vanced microG. Required when build non-root variant. | all | 
-| `sunxivanced-support` | Ability to login Google account with sunxivanced Required when build non-root variant. (Exclude microg-support when building!) (non-root) | all |
+| `sunxivanced-support` | Ability to login Google account with sunxivanced. Required when build non-root variant. (Exclude microg-support when building!) | all |
 </details>
 
 
@@ -71,7 +72,7 @@ Limitions between ReVanced Extended and this patches :
 
 ✅ Stability 
 
-✅ Compatible with Unisoc processor devices
+✅ Compatible with device using Unisoc processors
 
 ✅ Actually is a specific Vanced patch (not ReVanced anymore)
 
