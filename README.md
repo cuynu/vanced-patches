@@ -13,11 +13,10 @@ Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music
 
 | Patch | Description | Supported Version |
 |:--------:|:--------------:|:-----------------:|
-| `buffer-fix` | Spoof YouTube client version and package name to fix video playback buffer issue. | all |
 | `remove-ads` | Remove advertisement from Video and Shorts. | all |
 | `remove-general-ads` | Remove advertisement banner on homepage. | all |
 | `microg-support` | Ability to login Google account with Vanced microG. Required when build non-root variant. | all |
-| `sunxivanced-support` | Ability to login Google account with sunxivanced (Exclude microg-support when building!) | all |
+| `sunxivanced-support` | Ability to login Google account with sunxivanced Required when build non-root variant. (Exclude microg-support when building!) (non-root) | all |
 | `pip` | Play videos in Picture-in-Pictures mode | all |
 | `bg-playback` | Playback videos in background mode | all |
 | `vanced-settings` | Vanced settings. | all |
@@ -29,11 +28,10 @@ Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music
 | `sponsorblock` | SponsorBlock integration. | all |
 | `video-download` | Download videos and audio from YouTube Vanced with NewPipe bulit-in integration. | all |
 | `seekbar-shorts` | Seekbar in Shorts (Experiment) | all |
-| `remove-offline-download` | Remove bulit-in stock YouTube "Downloaded video" feature from Library menu. | all | 
 | `videoquality` | Enable old video quality layout. | all |
 | `black-theme` | Applies black theme. | all |
 | `monettheme`| Applies Material You theme (Android 12+), minSDK version also change to 31. | all |
-| `old-layout` | Spoof YouTube version to 17.28.34 to restore old layout. | all |
+| `old-layout` | Spoof YouTube version to 17.03.38 to restore old layout. | all |
 | `optimize` | Optimize apk after patching complete. | all |
 
 
@@ -53,6 +51,7 @@ Unlike ReVanced patches, this patch only support patch YouTube and YouTube Music
 | `vanced-settings` | YT Music Vanced settings | all |
 | `disable-cast` | Disable cast button | all |
 | `microg-support` | Ability to login Google account with Vanced microG. Required when build non-root variant. | all | 
+| `sunxivanced-support` | Ability to login Google account with sunxivanced Required when build non-root variant. (Exclude microg-support when building!) (non-root) | all |
 </details>
 
 
@@ -68,11 +67,7 @@ Limitions between ReVanced Extended and this patches :
 
 ❌ Ad-block might not work well
 
-❌ ~~No brightness & volume swipe gesture~~
-
-✅ allow-nomicrog patch : Allow to run YouTube Vanced without Vanced microG (non-root variant) with no login function (Like old Vanced <16.xx.xx)
-
-✅ video-download patch : Built-in video & audio downloader inside patch (NewPipe integration)
+❌ No brightness & volume swipe gesture
 
 ✅ Stability 
 
